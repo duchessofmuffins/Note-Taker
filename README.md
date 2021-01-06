@@ -10,7 +10,7 @@ A quick application created with express to take notes as needed, and save them 
 *[Installation](#installation)
 *[Usage](#usage)
 *[License](#license)
-*[Contributors](#contributors)a
+*[Contributors](#contributors)
 *[Test](#test)
 *[Questions](#questions)
 
@@ -19,7 +19,7 @@ A quick application created with express to take notes as needed, and save them 
 A quick application created with express to take notes as needed, and save them for later perusal.
 
 ## Installation
-npm i
+npm install
 
 ## Contributors
 Myself but feel free to continue as you'd like
