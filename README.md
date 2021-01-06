@@ -22,7 +22,7 @@ A quick application created with express to take notes as needed, and save them 
 npm install
 
 ## Contributors
-Myself but feel free to continue as you'd like
+Myself but feel free to continue as you'd like!
 
 ## Test
 node server.js
