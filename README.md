@@ -1,4 +1,4 @@
-# Note Taker
+# Easy Note Taker
 
 ## Description
 
